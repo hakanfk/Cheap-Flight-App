@@ -16,7 +16,7 @@ This app is using https://rapidapi.com/DataCrawler/api/skyscanner50 api from Rap
 ## In-App Images
 ### Onboarding
 ![Screenshot_1685557795](https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/43e6ab7e-19f1-4c62-8b22-805ab7428225)
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+<img src="https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/43e6ab7e-19f1-4c62-8b22-805ab7428225" width=50% height=50%>
 
 ### Home Screen
 ![flight2](https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/8e10393f-91f8-4eaa-8048-7dc93cfa2fc8)
