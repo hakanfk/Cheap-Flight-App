@@ -25,7 +25,7 @@ This app is using https://rapidapi.com/DataCrawler/api/skyscanner50 api from Rap
 <img src="https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/55061895-8c62-4d96-ab78-0c8115d0613c" width=40% height=40%>
 
 ### Pick a Date
-<img src="https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/fe5c2d85-c5c7-4507-b779-9dcee4a79a52" width=40% height=40%>
+<img src="https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/fe5c2d85-c5c7-4507-b779-9dcee4a79a52" width=25% height=25%>
 
 ### Price Comparisons
 <img src="https://github.com/hakanfk/Cheap-Flight-App/assets/59501938/8bdb6e3d-7250-4100-a287-56380f5bf103" width=40% height=40%>
