@@ -12,6 +12,8 @@ This app is using https://rapidapi.com/DataCrawler/api/skyscanner50 api from Rap
 -Axios
 -React Native Calendars
 -React Native Dot Env
+-React Native Async Storage
+-React Navigation
 
 ## In-App Images
 ### Onboarding
